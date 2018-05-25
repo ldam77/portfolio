@@ -15,7 +15,7 @@ img {
   height: 300px;
 }
 
-.row.blue-frame {
+/*.row.blue-frame {
   border: 2px solid lightblue;
   border-radius: 5px;
   padding: 2px;
@@ -27,7 +27,7 @@ img {
   border-radius: 5px;
   padding: 2px;
   margin: 2px;
-}
+}*/
 
 .row.centered {
   text-align: center;
