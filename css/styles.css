@@ -1,9 +1,14 @@
 .highlight {
   font-style: italic;
+  font-weight: bold;
 }
 
 .float-right {
   float: right;
+}
+
+div p {
+  text-align: left;
 }
 
 img {
@@ -12,12 +17,14 @@ img {
 
 .row.blue-frame {
   border: 2px solid lightblue;
+  border-radius: 5px;
   padding: 2px;
   margin: 2px;
 }
 
 .row.green-frame {
   border: 2px solid lightgreen;
+  border-radius: 5px;
   padding: 2px;
   margin: 2px;
 }
