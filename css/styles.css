@@ -12,7 +12,7 @@ div p {
 }
 
 img {
-  height: 250px;
+  height: 300px;
 }
 
 .row.blue-frame {
@@ -27,4 +27,20 @@ img {
   border-radius: 5px;
   padding: 2px;
   margin: 2px;
+}
+
+body {
+  background-image: url("../img/tech-wallpaper.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-size: 16px;
+}
+
+div.panel {
+  background-color:rgba(255, 255, 255, 0.3);
+}
+
+h1 {
+  font-size: 70px;
+  font-family: cursive;
 }
