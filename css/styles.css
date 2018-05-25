@@ -29,8 +29,16 @@ img {
   margin: 2px;
 }
 
+.row.centered {
+  text-align: center;
+}
+
+.row.centered img {
+  height: 100px;
+}
+
 body {
-  background-image: url("../img/tech-wallpaper.jpg");
+  background-image: url("../img/background.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   font-size: 16px;
@@ -42,5 +50,5 @@ div.panel {
 
 h1 {
   font-size: 70px;
-  font-family: cursive;
+  font-family: sans-serif square;
 }
