@@ -49,10 +49,14 @@ div.panel {
 }
 
 div h1 {
-  font-size: 70px;
+  font-size: 60px;
   font-family: Arial;
 }
 
 div h2 {
   font-weight: bold;
+}
+
+.panel-info {
+  border: 5px solid #bce8f1;
 }
