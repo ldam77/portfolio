@@ -1,3 +1,11 @@
 .highlight {
   font-style: italic;
 }
+
+.float-right {
+  float: right;
+}
+
+img {
+  height: 250px;
+}
